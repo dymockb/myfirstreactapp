@@ -1,7 +1,9 @@
 	
 const clientID = '8e38a010550b4b2eba7b4a8e232536a3';
 
-const redirectURI = 'http://localhost:3000';
+// const redirectURI = 'http://localhost:3000';
+
+const redirectURI = 'https://amazing-carson-4f4e6f.netlify.app/';
 
 let accessToken;
 
